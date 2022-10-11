@@ -1,1 +1,1 @@
-# SoliditySmartContract
+# Solidity Smart Contract
